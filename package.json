@@ -11,21 +11,21 @@
     "fmt": "prettier . --write"
   },
   "dependencies": {
-    "@solidjs/router": "^0.15.4",
-    "@tanstack/solid-query": "^5.90.14",
-    "solid-js": "^1.9.10"
+    "@solidjs/router": "^0.16.1",
+    "@tanstack/solid-query": "^5.99.2",
+    "solid-js": "^1.9.12"
   },
   "devDependencies": {
-    "@tailwindcss/vite": "^4.1.17",
-    "@types/node": "^24.10.1",
+    "@tailwindcss/vite": "^4.2.3",
+    "@types/node": "^25.6.0",
     "husky": "^9.1.7",
-    "lint-staged": "^16.2.7",
-    "prettier": "^3.7.3",
-    "prettier-plugin-tailwindcss": "^0.7.1",
-    "tailwindcss": "^4.1.17",
-    "typescript": "^5.9.3",
-    "vite": "^7.2.6",
-    "vite-plugin-solid": "^2.11.10"
+    "lint-staged": "^16.4.0",
+    "prettier": "^3.8.3",
+    "prettier-plugin-tailwindcss": "^0.7.2",
+    "tailwindcss": "^4.2.3",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.9",
+    "vite-plugin-solid": "^2.11.12"
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
